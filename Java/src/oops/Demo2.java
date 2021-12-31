@@ -22,6 +22,9 @@ public class Demo2 {
 		System.out.println(g1.getpassword());
 		g1.setpassword("bhanu");
 		System.out.println(g1.getpassword());
+		System.out.println("hiii");
+
+		
 		
 		// TODO Auto-generated method stub
 
